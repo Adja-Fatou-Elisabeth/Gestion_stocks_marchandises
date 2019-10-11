@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\Javadev\Projet\mysql-connector-java-5.1.21.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="pro,exercice8,connec" source="1.8" sourcepath="src" splitindex="true" stylesheetfile="C:\Users\Adji Fatou Elisabeth\Desktop\Cours L2TDSI\Develloppement web\BootStrapOpenClasseroom\bootstrap-4.0.0-beta.2-dist\css\bootstrap.css" use="true" version="true">
+            <link href="https://docs.oracle.com/javase/8/docs/api/"/>
+            <link href="file:/C:/Users/Adji%20Fatou%20Elisabeth/workspace/exercice8/doc/"/>
+            <link href="http://docs.oracle.com/javase/8/javafx/api/"/>
+        </javadoc>
+    </target>
+</project>
